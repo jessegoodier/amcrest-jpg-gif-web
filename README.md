@@ -41,3 +41,9 @@ Replace all image.jpg references with image.gif in the nginx config and in the i
 
 This is a simple script that takes a series of snapshots from an Amcrest IP camera and converts it to a gif.
 
+
+# troubleshooting
+
+The jpg api endpoint will vary by camera model. See the jpg row on this site for pointers:
+
+<https://www.ispyconnect.com/camera/amcrest>
